@@ -1,2 +1,7 @@
-# test2
-test2
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello, playground")
+}
